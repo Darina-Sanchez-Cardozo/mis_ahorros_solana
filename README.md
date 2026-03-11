@@ -115,3 +115,5 @@ En dado caso de que no tengas las extensiones instaladas te aparecerá la siguie
 > ⚠️ Al terminal la instalación de docker aparecerá de nuevo una ventana emergente en la parte inferior izquierda donde presionaremos `continue`
 
 Una vez empezado el proceso esperar a que termine. Puede tomar un tiempo debido a que se instalan todas las dependencias similar a la instalación en codespaces.
+
+>ℹ️ Docuemntación oficial: https://solana.com/developers/templates/react-vite-anchor
